@@ -10,7 +10,8 @@
       "matchPackageNames": [
         "node"
       ],
-      "ignoreUnstable": false
+      "ignoreUnstable": false,
+      "allowedVersions": "/^v?(16|18)(\\.[0-9]+){0,2}/"
     }
   ]
 }
