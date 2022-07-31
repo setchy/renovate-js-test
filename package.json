@@ -1,0 +1,9 @@
+{
+  "name": "renovate-node-test",
+  "dependencies": {
+    "dotenv": "15.0.0"
+  },
+  "engines": {
+    "node": "9"
+  }
+}
