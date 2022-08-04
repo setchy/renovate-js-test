@@ -7,14 +7,6 @@
   ],
   "packageRules": [
     {
-      "matchDatasources": [
-        "npm"
-      ],
-      "registryUrls": [
-        "https://foo/npm"
-      ]
-    },
-    {
       "matchPackageNames": [
         "node"
       ],
