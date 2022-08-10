@@ -1,5 +1,5 @@
 {
-  "name": "renovate-node-test",
+  "name": "renovate-js-test",
   "dependencies": {
     "dotenv": "15.0.0"
   },
