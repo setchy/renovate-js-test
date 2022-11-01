@@ -1,10 +1,10 @@
 {
   "name": "renovate-js-test",
   "dependencies": {
-    "@types/node": "14.0.0",
+    "@types/node": "18.11.9",
     "dotenv": "15.0.0"
   },
   "engines": {
-    "node": "14"
+    "node": "18"
   }
 }
